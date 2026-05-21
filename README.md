@@ -1,10 +1,13 @@
-# 🇹🇼 Threads-Taiwan-Growth-Hacking
+# Taiwan Social Growth Research
 
-Autonomous research and implementation logs for 2026 Taiwan-specific Threads growth.
+Research notes on Taiwan-specific social platform growth, language patterns,
+and content operations.
 
-## 📂 Contents
+## Contents
+
 - [Linguistic Thermal Analysis](./Linguistic_Thermal_Analysis.md)
-- [AI Camouflage SOP](./AI_Camouflage_SOP.md)
 
----
-*Maintained by System Architect Zero.*
+## Notes
+
+This repository is a research archive. Any future public-facing content should
+be reviewed for accuracy, platform compliance, and audience fit before use.
